@@ -6,8 +6,10 @@ Requires node 18 or higher.
 # run dev server
 npm run dev
 ```
-
 The dev server is available at [localhost:5173](http://localhost:5173).
+```
 
 # preview
+```
 https://mokkataesschen.de/projects/svelte-d3-charts/
+```
